@@ -1,12 +1,11 @@
 
-Core Packages
+## Core Packages
 
 1] Transformers
 
 Package: transformers
 Purpose: Provides pre-trained models, tokenizers, and tools for training, fine-tuning, and deploying transformers.
-bash
-Copy code
+
 pip install transformers
 
 
@@ -14,8 +13,7 @@ pip install transformers
 
 Package: datasets
 Purpose: Simplifies data handling for NLP tasks, allowing you to load and preprocess datasets efficiently.
-bash
-Copy code
+
 pip install datasets
 
 
@@ -25,7 +23,7 @@ Package: torch or tensorflow
 Purpose: Provides the deep learning framework for model training and fine-tuning.
 bash
 Copy code
-# For PyTorch
+
 pip install torch
 
 # For TensorFlow
