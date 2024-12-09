@@ -1,7 +1,7 @@
 
-## Core Packages
+# Core Packages
 
-1] Transformers
+## 1] Transformers
 
 Package: transformers
 Purpose: Provides pre-trained models, tokenizers, and tools for training, fine-tuning, and deploying transformers.
